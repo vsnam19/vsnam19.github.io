@@ -7,6 +7,3 @@
 
 ## Projects
 - [Placeholder project](https://vsnam19.github.io/projects/placeholder-project/)
-
-## Learning
-- [Placeholder track](https://vsnam19.github.io/learning/placeholder-track/)
