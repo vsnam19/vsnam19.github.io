@@ -1,6 +1,6 @@
 # NamVS
 
-> Placeholder — delete me
+> NamVS — embedded software engineer writing about automotive telematics, embedded Linux and the things I am learning.
 
 ## Articles
 - [Placeholder article](https://vsnam19.github.io/blog/first-post/)
