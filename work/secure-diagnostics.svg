@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<defs><pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#1e2233" stroke-width="1"/></pattern>
+<radialGradient id="glow" cx="0.75" cy="0.2" r="0.7"><stop offset="0" stop-color="#00e5ff" stop-opacity="0.12"/><stop offset="1" stop-color="#00e5ff" stop-opacity="0"/></radialGradient></defs>
+<rect width="640" height="400" fill="#0b0d14"/><rect width="640" height="400" fill="url(#g)"/><rect width="640" height="400" fill="url(#glow)"/>
+<rect x="60" y="36" width="130" height="44" fill="#0d0f17" stroke="#2b3150" stroke-width="2"/><text x="125" y="63" fill="#e3e6ee" font-size="14" font-weight="700" text-anchor="middle">TESTER</text>
+<rect x="380" y="36" width="130" height="44" fill="#0d0f17" stroke="#00e5ff" stroke-width="2"/><text x="445" y="63" fill="#e3e6ee" font-size="14" font-weight="700" text-anchor="middle">ECU</text>
+<path d="M125 80 V360 M445 80 V360" stroke="#2b3150" stroke-width="2" stroke-dasharray="4 6"/>
+<path d="M125 120 H437" stroke="#00e5ff" stroke-width="2"/><path d="M437 114 l8 6 -8 6" fill="#00e5ff"/><text x="285" y="110" fill="#00e5ff" font-size="13" text-anchor="middle">0x27 · request seed</text>
+<path d="M445 180 H133" stroke="#8a91a8" stroke-width="2"/><path d="M133 174 l-8 6 --8 6" fill="#8a91a8"/><text x="285" y="170" fill="#8a91a8" font-size="13" text-anchor="middle">seed</text>
+<path d="M125 240 H437" stroke="#00e5ff" stroke-width="2"/><path d="M437 234 l8 6 -8 6" fill="#00e5ff"/><text x="285" y="230" fill="#00e5ff" font-size="13" text-anchor="middle">key</text>
+<path d="M445 300 H133" stroke="#c6ff00" stroke-width="2"/><path d="M133 294 l-8 6 --8 6" fill="#c6ff00"/><text x="285" y="290" fill="#c6ff00" font-size="13" text-anchor="middle">access granted</text>
+<g transform="translate(540 190)"><rect x="0" y="0" width="70" height="70" fill="#0d0f17" stroke="#ff2bd6" stroke-width="2"/>
+<path d="M10 0 v-8 M10 70 v8 M0 10 h-8 M70 10 h8" stroke="#ff2bd6" stroke-width="2"/>
+<path d="M27 0 v-8 M27 70 v8 M0 27 h-8 M70 27 h8" stroke="#ff2bd6" stroke-width="2"/>
+<path d="M44 0 v-8 M44 70 v8 M0 44 h-8 M70 44 h8" stroke="#ff2bd6" stroke-width="2"/>
+<path d="M61 0 v-8 M61 70 v8 M0 61 h-8 M70 61 h8" stroke="#ff2bd6" stroke-width="2"/>
+<text x="35" y="42" fill="#ff2bd6" font-size="14" font-weight="700" text-anchor="middle">HSM</text></g>
+<path d="M445 200 H528" stroke="#ff2bd6" stroke-width="1.5" stroke-dasharray="3 5"/><text x="486" y="192" fill="#ff2bd6" font-size="11" text-anchor="middle">verify</text>
+<g transform="translate(445 336)"><rect x="-16" y="0" width="32" height="24" fill="#0d0f17" stroke="#c6ff00" stroke-width="2"/><path d="M-9 0 V-8 a9 9 0 0 1 18 0" fill="none" stroke="#c6ff00" stroke-width="2"/></g>
+</svg>

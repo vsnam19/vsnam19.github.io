@@ -1,3 +1,9 @@
 # NamVS
 
 > Embedded software engineer building over-the-air updates, diagnostics and secure connectivity for connected cars.
+
+## Projects
+- [Over-the-air updates for 30+ ECUs](https://vsnam19.github.io/projects/ota-at-scale/): Growing a telematics update system to cover the whole vehicle: 30+ ECUs on 4 CAN networks, on three platforms.
+- [End-of-line testing on the production line](https://vsnam19.github.io/projects/end-of-line-diagnostics/): A diagnostic service on the telematics unit that lets production-line tools check every unit's hardware and software before the car ships.
+- [Provisioning vehicles into the cloud](https://vsnam19.github.io/projects/vehicle-provisioning/): Giving each new vehicle a trusted identity and a secure link to the back-end, from the production line onwards.
+- [Securing diagnostic access with an HSM](https://vsnam19.github.io/projects/secure-diagnostics/): Making sure only authorised tools can unlock protected diagnostic functions on AUTOSAR ECUs.
