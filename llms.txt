@@ -1,6 +1,6 @@
 # NamVS
 
-> Embedded software engineer building over-the-air updates, diagnostics and secure connectivity for connected cars.
+> Embedded software engineer building over-the-air updates, diagnostics and security for connected devices, today in software-defined vehicles.
 
 ## Projects
 - [Over-the-air updates for 30+ ECUs](https://vsnam19.github.io/projects/ota-at-scale/): Growing a telematics update system to cover the whole vehicle: 30+ ECUs on 4 CAN networks, on three platforms.
