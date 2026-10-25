@@ -1,9 +1,3 @@
 # NamVS
 
-> NamVS — embedded software engineer writing about automotive telematics, embedded Linux and the things I am learning.
-
-## Articles
-- [Placeholder article](https://vsnam19.github.io/blog/first-post/)
-
-## Projects
-- [Placeholder project](https://vsnam19.github.io/projects/placeholder-project/)
+> Embedded software engineer building over-the-air updates, diagnostics and secure connectivity for connected cars.
